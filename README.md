@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ananyakul/ananyakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Ananya Kulshrestha, a sophomore at MIT majoring in Computer Science / AI
 
 ## Awards and Recognition:
@@ -19,6 +16,10 @@ American Invitational Mathematics Examination (AIME), March 2019 - February 2022
 
 ## Skills
 Python, Java, C/C++, SQL, HTML/CSS | React.js, Chakra UI, Flask, Jinja, PyTorch | Git, Docker, VS Code, AWS | Numpy, Matplotlib
+
+<!--
+**ananyakul/ananyakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 Here are some ideas to get you started:
