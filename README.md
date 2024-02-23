@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ananya Kulshrestha, a sophomore at MIT majoring in Computer Science / AI
+I'm Ananya Kulshrestha, a sophomore at MIT majoring in Computer Science / AI (Feel free to reach out at ananya_k@mit.edu)
 
 ## Awards and Recognition:
 Y Combinator Startup Challenge Winner, September 2023
