@@ -16,6 +16,7 @@ American Invitational Mathematics Examination (AIME), March 2019 - February 2022
 
 ## Education
 • Recent Coursework: Computational Sensorimotor Learning (6.8200 / 6.484) (G), Advance in Computer Vision (6.8301 / 6.819), Algebraic Combinatorics (18.212)
+
 • Past Coursework: Introduction to Deep Learning (6.S191), Design and Analysis of Algorithms (6.1220 / 6.046), Representation, Inference and Reasoning in AI (6.4110), Introduction to Machine Learning (6.3900 / 6.036), Introduction to Algorithms (6.1210 / 6.006), Fundamentals of Programming (6.1010 / 6.009), Introduction to Probability and Statistics (6.3700 / 6.041), Mathematics for Computer Science (6.1200 / 6.042),  Intro to Low Level C and Assembly Structure (6.1900 / 6.0004), Pokerbots (6.9630)
 
 ## Skills
