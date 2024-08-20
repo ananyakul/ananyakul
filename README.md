@@ -2,6 +2,39 @@
 
 I'm Ananya Kulshrestha, a rising junior at MIT majoring in Computer Science / AI (Feel free to reach out at ananya_k@mit.edu)
 
+## Experiences:
+
+Cloud Software Intern - Robotics Platform (NVIDIA Corporation) May 2024 - August 2024
+
+• Streamlined GPU workflow scheduling by integrating AWS's mountpoint-s3, optimizing time and space efficiency for Robotics and ML workflows.
+
+• Achieved superior performance benchmarks by enabling on-demand data access, facilitating faster debugging and result procurement, with read speeds comparable to traditional download methods.
+
+Skin Cancer Detection Project
+
+• Developed an ensemble of CNNs (ResNet, AlexNet, VGG, DenseNet) that enhanced skin cancer detection accuracy, outperforming individual models in key metrics (https://github.com/ananyakul/skin-cancer-detection).
+
+RL Policy Ensemble for Stock Trading Project
+
+• Created a robust stock trading strategy by integrating multiple RL models (DQN, DDPG, A2C, PPO) into an ensemble, leading to improved performance in volatile markets (https://github.com/ananyakul/rl-stock-prediction). 
+
+Research (Robotics Embodied Intelligence Experiment Creation Pipeline Developer) January 2024 - March 2024
+
+• Helped the development of advanced object variability features within the EI Quest Robotics codebase, enhancing the robotic simulation environment to mimic real-world scenarios,  contributing to the advancement of robotics/AI research.
+
+Research with Speech Communication Group at MIT  June 2023 - August 2023
+
+• Worked on a project focused on expanding speech recognition to other accents, dialects, speech disabilities, etc using prediction algorithms developed from machine learning techniques (i.e. Gaussian Models)
+
+• Learned about acoustic cues/IPA and labeled various audio files with the correct acoustic cues using scripts and linguistics knowledge
+
+Iterating the RSK (Robinson-Schensted-Knuth) Bijection (10.2140/involve.2021.14-3 / arXiv:2103.04707) June 2020 - July 2021
+
+• Published a paper which Investigates the dynamics of the RSK bijection and explores variations in reading words and cycles
+
+• Proved different theorems for the paper, used Python code to generate large amounts of data in order to substantiate conjectures
+
+
 ## Awards and Recognition:
 Y Combinator Startup Challenge Winner, September 2023
 
