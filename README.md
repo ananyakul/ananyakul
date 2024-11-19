@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm Ananya Kulshrestha, a rising junior at MIT majoring in Computer Science / AI (Feel free to reach out at ananya_k@mit.edu)
+I'm Ananya Kulshrestha, a junior at MIT majoring in Computer Science / AI (Feel free to reach out at ananya_k@mit.edu)
 
 ## Experiences:
+Research (Collaborative Learning and Autonomy Research Lab) September 2024 - Present
+
+• Developing and implementing learning algorithms for teaching robots complex features such as fragility and flexibility using multimodal feedback, including demonstrations, comparisons, and natural language inputs.
 
 Cloud Software Intern - Robotics Platform (NVIDIA Corporation) May 2024 - August 2024
 
@@ -36,6 +39,8 @@ Iterating the RSK (Robinson-Schensted-Knuth) Bijection (10.2140/involve.2021.14-
 
 
 ## Awards and Recognition:
+Neo Scholar Finalist, Feb 2024
+
 Y Combinator Startup Challenge Winner, September 2023
 
 • Selected in the top 6 teams at HackMIT for the best startup idea and invited to exclusive dinner with Y Combinator team members
@@ -48,7 +53,7 @@ American Invitational Mathematics Examination (AIME), March 2019 - February 2022
 • Invitational mathematics competition for top 2.5% students who take the American Mathematics Competition (AMC) 
 
 ## Education
-• Current Coursework: Natural Language Processing (6.8611), Deep Learning (6.7960) (G), AI, Decision Making, and Society (6.3950)
+• Current Coursework: Natural Language Processing (6.8611), Deep Learning (6.7960) (G), AI, Decision Making, and Society (6.3950), Studies in Music Technology (21M.369)
 
 • Recent Coursework: Computational Sensorimotor Learning (6.8200 / 6.484) (G), Advance in Computer Vision (6.8301 / 6.819), Algebraic Combinatorics (18.212)
 
