@@ -7,6 +7,16 @@ Research (Collaborative Learning and Autonomy Research Lab) September 2024 - Pre
 
 • Developing and implementing learning algorithms for teaching robots complex features such as fragility and flexibility using multimodal feedback, including demonstrations, comparisons, and natural language inputs.
 
+Enhancing Multimodal Models with Knowledge Graphs
+
+• Designed a multimodal model (language + image) using Knowledge Graphs and CLIP embeddings to generate enriched image captions, improving contextual understanding for visually impaired users (https://github.com/ananyakul/kg-image-caption).
+
+Patch-Based Clustering Techniques for Facial Emotion Recognition
+
+• Developed a patch-based emotion recognition model using Vision Transformers and clustering techniques (K-Means, Spectral, Agglomerative) to enhance accuracy and efficiency
+
+• Improved emotion classification through patch-to-cluster attention (https://ananyakul.github.io/dl-clustering-patches/).
+
 Cloud Software Intern - Robotics Platform (NVIDIA Corporation) May 2024 - August 2024
 
 • Streamlined GPU workflow scheduling by integrating AWS's mountpoint-s3, optimizing time and space efficiency for Robotics and ML workflows.
